@@ -1,36 +1,36 @@
-# Learn & Work Hub 🚀📊
+# Learn & Work Hub 
 
 *A digital platform blending skill-building, certification, and freelancing — focused on the data science niche.*
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 *Learn & Work Hub* bridges the gap between learning and earning. It empowers aspiring and experienced data science professionals to:
-- 📚 Learn industry-relevant skills
-- ✅ Get certified
-- 💼 Monetize their talent through freelance work
+- Learn industry-relevant skills
+- Get certified
+- Monetize their talent through freelance work
 
 Our unique platform integrates education, portfolio showcasing, and project matching — all in one ecosystem.
 
 ---
 
-## 🎯 Vision & Mission
+## Vision & Mission
 
 - *Mission:* To help individuals learn, prove, and earn from their skills in data science.
 - *Vision:* To become the global go-to hub for certified, freelance data professionals.
 
 ---
 
-## 🔍 Industry & Market
+## Industry & Market
 
 - *Industries:* EdTech + Freelance Marketplace (focus: Data Science & AI)
-- 🌐 Market Potential: Online education expected to reach *$279B by 2029*  
-- 📈 Data Science Platform market projected to hit *$676B by 2034*
+- Market Potential: Online education expected to reach *$279B by 2029*  
+- Data Science Platform market projected to hit *$676B by 2034*
 
 ---
 
-## 👤 Target Audience
+## Target Audience
 
 1. *Aspiring Freelancers* – Students, career switchers with basic data science knowledge
 2. *Experienced Professionals* – Freelancers expanding or offering their own courses
@@ -38,7 +38,7 @@ Our unique platform integrates education, portfolio showcasing, and project matc
 
 ---
 
-## 🏆 Competitive Advantage
+## Competitive Advantage
 
 | Feature | Learn & Work Hub | Udemy | Upwork | Kaggle | LinkedIn |
 |--------|------------------|-------|--------|--------|----------|
@@ -50,7 +50,7 @@ Our unique platform integrates education, portfolio showcasing, and project matc
 
 ---
 
-## 💰 Revenue Model
+## Revenue Model
 
 | Plan | Target | Price | Benefits |
 |------|--------|-------|----------|
@@ -64,7 +64,7 @@ Our unique platform integrates education, portfolio showcasing, and project matc
 
 ---
 
-## 📊 Financial Snapshot (Year 1)
+## Financial Snapshot (Year 1)
 
 - *Initial Investment:* €20,000  
 - *Revenue:* €184,840  
@@ -81,7 +81,7 @@ Our unique platform integrates education, portfolio showcasing, and project matc
 
 ---
 
-## 🛠 Team & Structure
+## Team & Structure
 
 - *Admin Officer:* Strategy, legal, investor relations
 - *Web Developer:* Frontend + Backend (Full-stack)
@@ -90,7 +90,7 @@ Our unique platform integrates education, portfolio showcasing, and project matc
 
 ---
 
-## ✅ Why It Stands Out
+## Why It Stands Out
 
 - 3-in-1 system: Learn → Certify → Earn
 - Freemium model encourages wide user adoption
@@ -101,12 +101,12 @@ Our unique platform integrates education, portfolio showcasing, and project matc
 
 ## 📎 Docs
 
-📄 [Full Business Plan](link-to-your-pdf-or-google-doc-if-public)  
-📊 [Marketing & Sales Strategy Overview](#)  
+ [Full Business Plan](link-to-your-pdf-or-google-doc-if-public)  
+ [Marketing & Sales Strategy Overview](#)  
 
 ---
 
-## 📬 Contact
+## Contact
 
 > *Bitla Sravan*  
 Berlin, Germany 🇩🇪  
